@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom Views</string>
+    <string name="btn_label">Press Me</string>
+
+</resources>
